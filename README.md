@@ -9,8 +9,11 @@ Make sure you add to your path the following folders:
 2) ~/Behavioral-Pipeline
 
 Contains essential functions for processing and plotting data that is aligned to the reward onset.
-For more information, please look at these following repositories:
+
+For more information, please look at these following repositories
+
 Tritsch Lab Toolbox: https://github.com/TritschLab/TLab_Toolbox
+
 Tritsch Lab Photometry Pipeline: https://github.com/pratikmistry96/Photometry-Pipeline
 
 ## Steps:
