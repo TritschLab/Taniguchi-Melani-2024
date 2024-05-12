@@ -1,4 +1,4 @@
-The MATLAB functions and script in this repository are developed to process, compute, and visualize data acquired during fiber photometry experiments presented in Taniguchi et al. 2023.
+The MATLAB functions and script in this repository are developed to process, compute, and visualize data acquired during fiber photometry experiments presented in Taniguchi et al. 2024.
 
 ## Dependencies:
 
